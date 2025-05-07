@@ -1,5 +1,5 @@
 
-# ACML: Aivis Common Voice License
+# ACML: Aivis Common Model License
 
 💠 **ACML:** 音声合成モデルのための、シンプルで実用的なライセンス
 
